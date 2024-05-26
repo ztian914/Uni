@@ -4,7 +4,7 @@
 **Group Members:**
 1. LIM ZHUO TIAN TG21017
 2. HWA WEI KEN TG21020
-3.
+3. AMIN HAKIM BIN JABAR TG21046
 
 ### Answer for Group 8
 **Frontend**
